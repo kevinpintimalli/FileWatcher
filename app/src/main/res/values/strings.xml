@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FileWatcher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="url">Enter URL</string>
+    <string name="start">Add Item</string>
+    <string name="http">http://</string>
+    <string name="time_intent">time</string>
+    <string name="url_intent">url</string>
+    <string name="update_tag">Update Tag</string>
+
+    <string-array name="spinner_array">
+        <item>Check Time</item>
+        <item>1 Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+    </string-array>
+
+    <string name="spinner_retry">Please pick refresh time.</string>
+    <string name="success">File added to watch.</string>
+
+</resources>
